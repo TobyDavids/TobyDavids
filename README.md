@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwatobi AFINTINNI
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Power BI and Python
-- 💞️ I’m looking to collaborate on Data Analysis projects covering any industry
+- 👀 I’m interested in Data & Analytics Engineering
+- 🌱 I’m currently transitioning into Data Engineering
+- 💞️ I’m looking to collaborate on Data Engineering projects covering any industry
 - 📫 You can reach me via my Linkedin profile here- https://www.linkedin.com/in/oluwatobi-afintinni-a57147101/
 
 <!---
