@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Oluwatobi AFINTINNI
-- 👀 I’m interested in Data & Analytics Engineering
-- 🌱 I’m currently transitioning into Data Engineering
+- 👀 I am passionate about Finance, Data & Analytics Engineering
 - 💞️ I’m looking to collaborate on Data Engineering projects covering any industry
 - 📫 You can reach me via my Linkedin profile here- https://www.linkedin.com/in/oluwatobi-afintinni-a57147101/
 
